@@ -2,6 +2,8 @@
 
 有些功能是其他软件或者手势工具上的，部分来自官方论坛作者Rob分享的
 
+考虑以后把脚本放在配置文件分享
+
 已发 [卡饭](https://bbs.kafan.cn/thread-2208325-1-1.html) [小众论坛](https://meta.appinn.net/t/topic/29815)
 
 软件官网：https://www.strokesplus.net
