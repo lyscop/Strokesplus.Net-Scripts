@@ -10,11 +10,11 @@
 
 **第一部分成品**
 
-1 大写键监控、自动6s关闭大写 <a href="https://github.com/lyscop/Strokesplus.Net-Scripts/tree/main/%E6%88%90%E5%93%811%20%E5%A4%A7%E5%86%99%E9%94%AE%E7%9B%91%E6%8E%A7%E3%80%81%E8%87%AA%E5%8A%A86s%E5%85%B3%E9%97%AD%E5%A4%A7%E5%86%99" target="_blank">直达</a><br>
+1 自动6s关闭大写 <a href="https://github.com/lyscop/Strokesplus.Net-Scripts/tree/main/%E6%88%90%E5%93%811%20%E5%A4%A7%E5%86%99%E9%94%AE%E7%9B%91%E6%8E%A7%E3%80%81%E8%87%AA%E5%8A%A86s%E5%85%B3%E9%97%AD%E5%A4%A7%E5%86%99" target="_blank">直达</a><br>
 2 截图显示屏幕（调用win10截图快捷键） |（手势框选区域）<br>
 3 截图OCR（调用win10截图快捷键 百度OCR api）<br>
 4 截图保存桌面（调用win10截图快捷键）<br>
-5 桌面提示中英文输入法状态（搜狗）<br>
+5 桌面提示中英文输入法状态（搜狗） / 大写提示<br>
 <img src="https://i.imgur.com/FZyVXJJ.png" width="450"><br>
 6 设置当前输入法为中文或者英文（搜狗）<br>
 &nbsp;&nbsp;&nbsp;需要在启动/退出 中添加5中第一部分代码在启动/退出<br>
