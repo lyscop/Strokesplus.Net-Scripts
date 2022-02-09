@@ -4,9 +4,9 @@
 
 考虑以后把脚本放在配置文件分享
 
-已发 [卡饭](https://bbs.kafan.cn/thread-2208325-1-1.html) [小众论坛](https://meta.appinn.net/t/topic/29815)
+软件官网：https://www.strokesplus.net/
 
-软件官网：https://www.strokesplus.net
+已发 [卡饭](https://bbs.kafan.cn/thread-2208325-1-1.html) [小众论坛](https://meta.appinn.net/t/topic/29815)
 
 **第一部分成品**
 
