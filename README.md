@@ -8,7 +8,7 @@
 
 脚本已分享在 [卡饭](https://bbs.kafan.cn/thread-2208325-1-1.html) [小众论坛](https://meta.appinn.net/t/topic/29815)
 
-**第一部分成品**
+**第一部分成品**[Go to this page](https://www.baidu.com/?target=_blank)
 
 1 大写键监控、自动6s关闭大写 <a href="https://github.com/lyscop/Strokesplus.Net-Scripts/tree/main/%E6%88%90%E5%93%811%20%E5%A4%A7%E5%86%99%E9%94%AE%E7%9B%91%E6%8E%A7%E3%80%81%E8%87%AA%E5%8A%A86s%E5%85%B3%E9%97%AD%E5%A4%A7%E5%86%99" target="_blank">直达</a><br>
 2 截图显示屏幕（调用win10截图快捷键） |（手势框选区域）<br>
