@@ -46,7 +46,7 @@
 1 任意窗口搜索输入内容<br>
 &nbsp; &nbsp;&nbsp;类似于 Power Toys 或者 Listary<br>
 <img src="https://i.vgy.me/WuyoE8.png" width="450"><br>
-2 光标移动到屏幕角落执行动作
+2 光标移动到屏幕角落执行动作<br>
 &nbsp; &nbsp;&nbsp;鼠标停留在角落执行动作，鼠标移出再移入，取消执行动作<br>
 3 监控设备接入<br>
 4 监控程序启动/退出<br>
