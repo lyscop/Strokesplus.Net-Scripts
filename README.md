@@ -15,15 +15,15 @@
 5 桌面提示中英文输入法状态（搜狗）<br>
 <img src="https://i.imgur.com/FZyVXJJ.png" width="450"><br>
 6 设置当前输入法为中文或者英文（搜狗）<br>
-&nbsp;&nbsp;需要在启动/退出 中添加5中第一部分代码在启动/退出<br>
+&nbsp;&nbsp;&nbsp;需要在启动/退出 中添加5中第一部分代码在启动/退出<br>
 7 解压缩到当前文件夹（7Zip）<br>
-&nbsp;&nbsp;分别解压缩包内单文件、单文件夹、多文件文件夹、批量解压缩，需要含密码情况留言<br>
+&nbsp;&nbsp;&nbsp;分别解压缩包内单文件、单文件夹、多文件文件夹、批量解压缩，需要含密码情况留言<br>
 8 压缩选中文件、文件夹（7Zip）<br>
-&nbsp;&nbsp;分别压缩选中单文件、单文件夹、多文件文件夹<br>
+&nbsp;&nbsp;&nbsp;分别压缩选中单文件、单文件夹、多文件文件夹<br>
 9 鼠标穿屏<br>
-&nbsp;&nbsp;鼠标在屏幕上下左右边界穿过到另一侧，如果使用多个屏幕需要调整代码<br>
+&nbsp;&nbsp;&nbsp;鼠标在屏幕上下左右边界穿过到另一侧，如果使用多个屏幕需要调整代码<br>
 10 划词翻译<br>
-&nbsp;&nbsp;划词后，中文Google翻译，英文句子Google翻译，英文单词有道翻译，结果保存剪切板，同时显示在鼠标处<br>
+&nbsp;&nbsp;&nbsp;划词后，中文Google翻译，英文句子Google翻译，英文单词有道翻译，结果保存剪切板，同时显示在鼠标处<br>
 &nbsp;&nbsp;自动6秒关闭结果显示，鼠标点击和滚动关闭显示需要在鼠标事件中设置<br>
 &nbsp; &nbsp;&nbsp;<img src="https://i.vgy.me/DsEJ0V.gif" width="380"><br>
 11 选中图片上传返回链接（ShareX）<br>
