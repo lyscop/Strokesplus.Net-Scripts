@@ -13,6 +13,7 @@
 3 截图OCR（调用win10截图快捷键 百度OCR api）<br>
 4 截图保存桌面（调用win10截图快捷键）<br>
 5 桌面提示中英文输入法状态（搜狗）<br>
+<img src="https://i.imgur.com/FZyVXJJ.png" width="450"><br>
 6 设置当前输入法为中文或者英文（搜狗）<br>
 &nbsp;&nbsp;需要在启动/退出 中添加5中第一部分代码在启动/退出<br>
 7 解压缩到当前文件夹（7Zip）<br>
@@ -24,7 +25,7 @@
 10 划词翻译<br>
 &nbsp;&nbsp;划词后，中文Google翻译，英文句子Google翻译，英文单词有道翻译，结果保存剪切板，同时显示在鼠标处<br>
 &nbsp;&nbsp;自动6秒关闭结果显示，鼠标点击和滚动关闭显示需要在鼠标事件中设置<br>
-&nbsp; &nbsp;&nbsp;<img src="https://i.vgy.me/DsEJ0V.gif" width="380">
+&nbsp; &nbsp;&nbsp;<img src="https://i.vgy.me/DsEJ0V.gif" width="380"><br>
 11 选中图片上传返回链接（ShareX）<br>
 &nbsp; &nbsp;&nbsp;自带图床有（Imgur、vgy等），自定义上传图床（Imgbb无法外链大图)，可添加工作流上传后Google搜索<br>
 12 选中图片打开编辑（ShareX）<br>
@@ -36,19 +37,18 @@
 17 当前窗口信息<br>
 18 选中图片转化base64<br>
 19 选中图片预览<br>
-<img src="https://i.vgy.me/Vdflkm.png" width="450">
+<img src="https://i.vgy.me/Vdflkm.png" width="450"><br>
 
 **第二部分案例**
 
 1 任意窗口搜索输入内容<br>
 &nbsp; &nbsp;&nbsp;类似于 Power Toys 或者 Listary<br>
-<img src="https://i.vgy.me/WuyoE8.png" width="450">
+<img src="https://i.vgy.me/WuyoE8.png" width="450"><br>
 2 光标移动到屏幕角落执行动作
 &nbsp; &nbsp;&nbsp;鼠标停留在角落执行动作，鼠标移出再移入，取消执行动作<br>
 3 监控设备接入<br>
 4 监控程序启动/退出<br>
 5 全局手势中指定不同程序<br>
-<img src="https://i.imgur.com/FZyVXJJ.png" width="450">
 6 指定软件设置快捷键<br>
 7 定时执行动作/启动程序<br>
 8 手势作用在浏览器特定的页面<br>
