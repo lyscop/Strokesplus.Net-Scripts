@@ -24,7 +24,7 @@
 &nbsp;&nbsp;&nbsp;鼠标在屏幕上下左右边界穿过到另一侧，如果使用多个屏幕需要调整代码<br>
 10 划词翻译<br>
 &nbsp;&nbsp;&nbsp;划词后，中文Google翻译，英文句子Google翻译，英文单词有道翻译，结果保存剪切板，同时显示在鼠标处<br>
-&nbsp;&nbsp;自动6秒关闭结果显示，鼠标点击和滚动关闭显示需要在鼠标事件中设置<br>
+&nbsp;&nbsp;&nbsp;自动6秒关闭结果显示，鼠标点击和滚动关闭显示需要在鼠标事件中设置<br>
 &nbsp; &nbsp;&nbsp;<img src="https://i.vgy.me/DsEJ0V.gif" width="380"><br>
 11 选中图片上传返回链接（ShareX）<br>
 &nbsp; &nbsp;&nbsp;自带图床有（Imgur、vgy等），自定义上传图床（Imgbb无法外链大图)，可添加工作流上传后Google搜索<br>
