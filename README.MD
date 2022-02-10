@@ -43,10 +43,10 @@
 
 **第二部分案例**
 
-01 任意窗口搜索输入内容<br>
+01 任意窗口搜索输入内容 [直达](https://github.com/lyscop/Strokesplus.Net-Scripts/tree/main/%E6%A1%88%E4%BE%8B01%20%E4%BB%BB%E6%84%8F%E7%AA%97%E5%8F%A3%E6%90%9C%E7%B4%A2%E8%BE%93%E5%85%A5%E5%86%85%E5%AE%B9)<br>
 &nbsp; &nbsp;&nbsp;类似于 Power Toys 或者 Listary<br>
 <img src="https://i.vgy.me/WuyoE8.png" width="450"><br>
-02 光标移动到屏幕角落执行动作<br>
+02 光标移动到屏幕角落执行动作 [直达](https://github.com/lyscop/Strokesplus.Net-Scripts/tree/main/%E6%A1%88%E4%BE%8B02%20%E5%85%89%E6%A0%87%E7%A7%BB%E5%8A%A8%E5%88%B0%E5%B1%8F%E5%B9%95%E8%A7%92%E8%90%BD%E6%89%A7%E8%A1%8C%E5%8A%A8%E4%BD%9C)<br>
 &nbsp; &nbsp;&nbsp;鼠标停留在角落执行动作，鼠标移出再移入，取消执行动作<br>
 03 监控设备接入<br>
 04 监控程序启动/退出<br>
