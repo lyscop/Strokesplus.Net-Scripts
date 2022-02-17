@@ -113,7 +113,7 @@ sp.CreateTimer("imagepreview",
 
                     var form = new Forms.Form;
                     form.StartPosition = Forms.FormStartPosition.Manual;
-                    form.FormBorderStyle = (border != 0) ? //border != 0顶部白框
+                    form.FormBorderStyle = (border != 0) ? 
                         Forms.FormBorderStyle.None :
                         Forms.FormBorderStyle.SizableToolWindow ;
                     form.TopMost = true;
