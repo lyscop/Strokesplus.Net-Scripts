@@ -40,7 +40,9 @@
 18 选中图片转化base64<br>
 19 选中图片预览 [直达](https://github.com/lyscop/Strokesplus.Net-Scripts/tree/main/%E6%88%90%E5%93%8119%20%E9%80%89%E4%B8%AD%E5%9B%BE%E7%89%87%E9%A2%84%E8%A7%88)<br>
 <img src="https://i.vgy.me/Vdflkm.png" width="450"><br>
-
+20. 右键执行中键<br>
+&nbsp; &nbsp;&nbsp;点右键关闭浏览器标签页，打开书签栏书签，支持Chrome，Edge，Firefox，按Ctrl+右键正常显示菜单，不过还是手势关闭比较方便<br>
+               
 **第二部分案例**
 
 01 任意窗口搜索输入内容 [直达](https://github.com/lyscop/Strokesplus.Net-Scripts/tree/main/%E6%A1%88%E4%BE%8B01%20%E4%BB%BB%E6%84%8F%E7%AA%97%E5%8F%A3%E6%90%9C%E7%B4%A2%E8%BE%93%E5%85%A5%E5%86%85%E5%AE%B9)<br>
@@ -67,7 +69,7 @@
 19 屏幕边缘滚动调节亮度、声音、浏览器标签页切换、程序切换<br>
 20 窗口、图片放大缩小<br>
 21 最小化到托盘、最小化指定窗口到托盘（指定窗口设置老板键）<br>
-22 窗口透明<br>
+22 窗口透明（鼠标可点击）<br>
 23 窗口置前、置顶<br>
 24 手势对应热键识别窗口<br>
 
