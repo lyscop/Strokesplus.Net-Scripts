@@ -54,7 +54,7 @@
 <img src="https://i.vgy.me/WuyoE8.png" width="450"><br>
 02 光标移动到屏幕角落执行动作 [直达](https://github.com/lyscop/Strokesplus.Net-Scripts/tree/main/%E6%A1%88%E4%BE%8B02%20%E5%85%89%E6%A0%87%E7%A7%BB%E5%8A%A8%E5%88%B0%E5%B1%8F%E5%B9%95%E8%A7%92%E8%90%BD%E6%89%A7%E8%A1%8C%E5%8A%A8%E4%BD%9C)<br>
 &nbsp; &nbsp;&nbsp;鼠标停留在角落执行动作，鼠标移出再移入，取消执行动作<br>
-03 屏幕边缘滚动调节亮度、声音、浏览器标签页切换、程序切换<br>
+03 屏幕边缘滚动调节亮度、声音、浏览器标签页切换、程序切换 [直达](https://github.com/lyscop/Strokesplus.Net-Scripts/tree/main/%E6%A1%88%E4%BE%8B03%20%E5%B1%8F%E5%B9%95%E8%BE%B9%E7%BC%98%E6%BB%9A%E5%8A%A8%E8%B0%83%E8%8A%82%E4%BA%AE%E5%BA%A6%E3%80%81%E5%A3%B0%E9%9F%B3%E3%80%81%E6%B5%8F%E8%A7%88%E5%99%A8%E6%A0%87%E7%AD%BE%E9%A1%B5%E5%88%87%E6%8D%A2%E3%80%81%E7%A8%8B%E5%BA%8F%E5%88%87%E6%8D%A2)<br>
 04 最小化到托盘、最小化指定窗口到托盘（指定窗口设置老板键）<br>
 05 定时执行动作/启动程序<br>
 06 监控设备接入<br>
