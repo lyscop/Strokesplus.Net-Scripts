@@ -76,7 +76,7 @@ for(i=0; i< 6000; i++) {
                 var pic_doubleClick = 
                 pic.DoubleClick.connect(
                 function (sender, args) {
-                  //form.Close();  
+                  form.Close();  
                 });
 
 
