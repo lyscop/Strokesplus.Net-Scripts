@@ -33,7 +33,7 @@
 11 选中图片上传返回链接（ShareX）<br>
 &nbsp; &nbsp;&nbsp;自带图床有（Imgur、vgy等），自定义上传图床（Imgbb无法外链大图)，可添加工作流上传后Google搜索<br>
 12 选中图片打开编辑（ShareX）<br>
-&nbsp; &nbsp;&nbsp;使用命令行，跳过弹出点击选择窗口<br>
+&nbsp;&nbsp;&nbsp;&nbsp;使用命令行，跳过弹出点击选择窗口<br>
 13 Alt+拖动窗口<br>
 14 搜索选中文字或打开链接<br>
 15 固定鼠标在屏幕的当前点<br>
@@ -43,14 +43,18 @@
 19 选中图片预览 [直达](https://github.com/lyscop/Strokesplus.Net-Scripts/tree/main/%E6%88%90%E5%93%8119%20%E9%80%89%E4%B8%AD%E5%9B%BE%E7%89%87%E9%A2%84%E8%A7%88)<br>
 <img src="https://i.vgy.me/Vdflkm.png" width="450"><br>
 20 右键执行中键<br>
-&nbsp; &nbsp;&nbsp;点右键关闭浏览器标签页，打开书签栏书签，支持Chrome，Edge，Firefox，按Ctrl+右键正常显示菜单，不过还是手势关闭比较方便<br>
+&nbsp;&nbsp;&nbsp;&nbsp;点右键关闭浏览器标签页，打开书签栏书签，支持Chrome，Edge，Firefox，按Ctrl+右键正常显示菜单，不过还是手势关闭比较方便<br>
 21 WEBP互转JPG、PNG<br>
 22 窗口透明（鼠标可点击）<br>
+23. 桌面显示倒计时<br>
+&nbsp;&nbsp;&nbsp;输入结束时间，倒计时显示桌面，结束后发出嘀声<br>
+&nbsp;&nbsp;&nbsp;时间格式为年, 月, 日, 时, 分(可选), 秒(可选) 或者 年-月-日-时-分(可选)-秒(可选)<br>
+<img src='https://i.vgy.me/kJOUiC.gif' width="450"><br>
                
 **第二部分案例**
 
 01 任意窗口搜索输入内容 [直达](https://github.com/lyscop/Strokesplus.Net-Scripts/tree/main/%E6%A1%88%E4%BE%8B01%20%E4%BB%BB%E6%84%8F%E7%AA%97%E5%8F%A3%E6%90%9C%E7%B4%A2%E8%BE%93%E5%85%A5%E5%86%85%E5%AE%B9)<br>
-&nbsp; &nbsp;&nbsp;类似于 Power Toys 或者 Listary<br>
+&nbsp;&nbsp;&nbsp;&nbsp;类似于 Power Toys 或者 Listary<br>
 <img src="https://i.vgy.me/WuyoE8.png" width="450"><br>
 02 光标移动到屏幕角落执行动作 [直达](https://github.com/lyscop/Strokesplus.Net-Scripts/tree/main/%E6%A1%88%E4%BE%8B02%20%E5%85%89%E6%A0%87%E7%A7%BB%E5%8A%A8%E5%88%B0%E5%B1%8F%E5%B9%95%E8%A7%92%E8%90%BD%E6%89%A7%E8%A1%8C%E5%8A%A8%E4%BD%9C)<br>
 &nbsp; &nbsp;&nbsp;鼠标停留在角落执行动作，鼠标移出再移入，取消执行动作<br>
