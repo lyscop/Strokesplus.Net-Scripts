@@ -13,7 +13,7 @@
 **第一部分成品**
 
 01 自动6s关闭大写 <a href="https://github.com/lyscop/Strokesplus.Net-Scripts/tree/main/%E6%88%90%E5%93%811%20%E5%A4%A7%E5%86%99%E9%94%AE%E7%9B%91%E6%8E%A7%E3%80%81%E8%87%AA%E5%8A%A86s%E5%85%B3%E9%97%AD%E5%A4%A7%E5%86%99" target="_blank">直达</a><br>
-02 截图显示屏幕（调用win10截图快捷键）  |（手势框选区域）[直达](https://github.com/lyscop/Strokesplus.Net-Scripts/tree/main/%E6%88%90%E5%93%8102%20%E6%88%AA%E5%9B%BE%E6%98%BE%E7%A4%BA%E5%B1%8F%E5%B9%95) 暂未更新<br>
+02 截图显示屏幕（调用win10截图快捷键）  |（手势框选区域）[直达](https://github.com/lyscop/Strokesplus.Net-Scripts/tree/main/%E6%88%90%E5%93%8102%20%E6%88%AA%E5%9B%BE%E6%98%BE%E7%A4%BA%E5%B1%8F%E5%B9%95) 待更新<br>
 03 截图OCR（调用win10截图快捷键 百度OCR api）[直达](https://github.com/lyscop/Strokesplus.Net-Scripts/tree/main/%E6%88%90%E5%93%8103%20%E6%88%AA%E5%9B%BEOCR)<br>
 04 截图保存桌面（调用win10截图快捷键）[直达](https://github.com/lyscop/Strokesplus.Net-Scripts/tree/main/%E6%88%90%E5%93%8104%20%E6%88%AA%E5%9B%BE%E4%BF%9D%E5%AD%98%E6%A1%8C%E9%9D%A2)<br>
 05 桌面提示中英文输入法状态（搜狗） / 大写提示[直达](https://github.com/lyscop/Strokesplus.Net-Scripts/tree/main/%E6%88%90%E5%93%8105%20%E6%A1%8C%E9%9D%A2%E6%8F%90%E7%A4%BA%E4%B8%AD%E8%8B%B1%E6%96%87%E8%BE%93%E5%85%A5%E6%B3%95%E7%8A%B6%E6%80%81%EF%BC%88%E6%90%9C%E7%8B%97%EF%BC%89%20%E5%A4%A7%E5%86%99%E6%8F%90%E7%A4%BA)<br>
