@@ -26,7 +26,7 @@
 &nbsp;&nbsp;&nbsp;分别压缩选中单文件、单文件夹、多文件文件夹<br>
 09 鼠标穿屏 [直达](https://github.com/lyscop/Strokesplus.Net-Scripts/tree/main/%E6%88%90%E5%93%8109%20%E9%BC%A0%E6%A0%87%E7%A9%BF%E5%B1%8F)<br>
 &nbsp;&nbsp;&nbsp;鼠标在屏幕上下左右边界穿过到另一侧，如果使用多个屏幕需要调整代码<br>
-10 划词翻译<br>
+10 划词翻译 [直达](https://github.com/lyscop/Strokesplus.Net-Scripts/tree/main/%E6%88%90%E5%93%8110%20%E5%88%92%E8%AF%8D%E7%BF%BB%E8%AF%91)<br>
 &nbsp;&nbsp;&nbsp;划词后，中文Google翻译，英文句子Google翻译，英文单词有道翻译，结果保存剪切板，同时显示在鼠标处<br>
 &nbsp;&nbsp;&nbsp;自动6秒关闭结果显示，鼠标点击和滚动关闭显示需要在鼠标事件中设置<br>
 &nbsp; &nbsp;&nbsp;<img src="https://i.vgy.me/DsEJ0V.gif" width="380"><br>
