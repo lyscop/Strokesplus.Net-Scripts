@@ -18,6 +18,7 @@ append.js
 
 **重要：如果已经添加过DisplayTextInfo计时器，直接复制添加** if(sp.GetStoredBool("Trans")) { 和} **之间的代码**（即开始结束之间）
 
+<br>
 
 左键点击关闭
 
