@@ -6,7 +6,7 @@
 
 软件官网：https://www.strokesplus.net/
 
-脚本已分享在 [卡饭](https://bbs.kafan.cn/thread-2208325-1-1.html) [小众论坛](https://meta.appinn.net/t/topic/29815)
+脚本已分享在 [卡饭](https://bbs.kafan.cn/thread-2208325-1-1.html) [小众论坛](https://meta.appinn.net/t/topic/29815)（手势图）
 
 暂时没有S+net的群，可加旧版S+的群204647334
 
