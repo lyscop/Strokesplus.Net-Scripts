@@ -22,12 +22,13 @@ sp.CreateTimer("LangWatch",
 
                 //开始
               var currentMouseLocation = sp.GetCurrentMousePoint();
+              var currpt = sp.GetStoredPoint("mouseClick"); 
               if(sp.GetStoredBool("Trans")) {
                         info.Opacity = 0.6;
                         info.Padding = 5;   
                         info.MessageAlignment = 'Left';
                         info.MessageFont = new Font("Segoe UI Semibold", 8); //结果字体大小，13寸屏幕检验8/10，大于13寸建议12/14
-                        //info.Location = (currpt.X + 10) + ',' + (currpt.Y + 35); //鼠标点击位置
+                        //info.Location = (currpt.X + 10) + ',' + (currpt.Y + 35); //鼠标点击位置，需要在鼠标左键点击脚本中添加 var currentMouseLocation = sp.GetCurrentMousePoint(); sp.StorePoint("mouseClick", currentMouseLocation);
                         info.Location = (currentMouseLocation.X + 10) + ',' + (currentMouseLocation.Y + 35); //鼠标位置
                         info.BackColor = "245,245,245"; 
                         info.ForeColor = 'black';
