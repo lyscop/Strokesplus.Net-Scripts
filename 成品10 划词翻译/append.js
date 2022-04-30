@@ -9,11 +9,8 @@ sp.CreateTimer("LangWatch",
                info.BackColor = "15,179,98";  //绿
                info.ForeColor = "255,255,255";
                info.Duration = 1000;
-               info.Opacity = 0.5;
-               //info.Location = "679,765";
-               info.Location = "190,809";
-               //info.Location = "0,0";
-               //info.Location = "bottom";
+               info.Opacity = 0.5; //透明度
+               info.Location = "190,809"; //翻译结果显示坐标，相对于屏幕分辨率，当前是屏幕左下角
                info.FadeSteps = 10;
                info.Padding = 10;
                info.Message = "";
@@ -29,7 +26,7 @@ sp.CreateTimer("LangWatch",
                         info.Opacity = 0.6;
                         info.Padding = 5;   
                         info.MessageAlignment = 'Left';
-                        info.MessageFont = new Font("Segoe UI Semibold", 8);
+                        info.MessageFont = new Font("Segoe UI Semibold", 8); //结果字体大小，13寸屏幕检验8/10，大于13寸建议12/14
                         //info.Location = (currpt.X + 10) + ',' + (currpt.Y + 35); //鼠标点击位置
                         info.Location = (currentMouseLocation.X + 10) + ',' + (currentMouseLocation.Y + 35); //鼠标位置
                         info.BackColor = "245,245,245"; 
