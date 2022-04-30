@@ -2,6 +2,7 @@ sp.CreateTimer("LangWatch",
                250,
                250,
                `var info = new DisplayTextInfo();
+                
                  
                info.TitleFont = new Font('Segoe UI', 12, host.flags(FontStyle.Bold));
                info.MessageFont = new Font("Segoe UI Semibold", 12);
@@ -23,7 +24,7 @@ sp.CreateTimer("LangWatch",
                 }
 
                 //开始
-
+              var currentMouseLocation = sp.GetCurrentMousePoint();
               if(sp.GetStoredBool("Trans")) {
                         info.Opacity = 0.6;
                         info.Padding = 5;   
